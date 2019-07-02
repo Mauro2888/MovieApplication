@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="detail_activity">Detail Movie</string>
+    <string name="title">Title :</string>
+    <string name="date_release">Date Release</string>
+    <string name="vote_av">Average Vote</string>
+    <string name="plot">No Plot Available:</string>
+    <string name="nowPlay">Now playing</string>
+    <string name="mostPopular">Most Popular</string>
+    <string name="topRated">Top Rated</string>
+    <string name="favourtie">Favourite Movies</string>
+    <string name="no_review">No Review Available</string>
+    <string name="check_conn">Check internet connection</string>
+    <string name="added_Favourite">Added to Favourite</string>
+    <string name="add_fav">Add Favourite</string>
+    <string name="review">Reviews :</string>
+    <string name="trailer">Trailers :</string>
+    <string name="plotAvailable">Plot :</string>
+    <string name="noReviewAt">No Review available at this moment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
